@@ -1,0 +1,10 @@
+
+api_model: ""  
+n_processes: 10     
+max_retries: 3        
+max_tokens: 4096      
+
+input_file: 
+error_file_suffix: 
+
+limit_records: null     
