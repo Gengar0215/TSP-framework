@@ -40,9 +40,6 @@ Think-Search-Patch (TSP) is a retrieval-augmented reasoning framework designed f
 ### Install Required Frameworks
 
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/TSP.git
-cd TSP
 
 # Install SFT training framework
 cd verl && pip install -e .
